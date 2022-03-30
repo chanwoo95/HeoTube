@@ -1,0 +1,22 @@
+.container {
+  width: 18rem;
+  margin: 0.5em;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.container:hover {
+  transform: scale(1.02);
+}
+
+.thumbnail {
+  width: 100%;
+}
+
+.title {
+  font-size: 1.1rem;
+}
+
+.channel {
+  font-size: 0.9rem;
+}
